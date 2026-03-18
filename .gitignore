@@ -1,0 +1,15 @@
+/.idea/**
+/log/**
+/SCRIPT/**
+**/.idea/
+**/target/
+**/log/
+**/jar/
+**/package/
+**/*.iml
+**/MBPGenerator.java
+**/velocity.log
+
+**/resources/application-my.properties
+**/resources/application-my.yml
+
